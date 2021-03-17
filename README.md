@@ -35,7 +35,6 @@
         <br />
         <p><a href="https://github.com/bethhowell123/FlyghtOne">Repo</a> | <a href="https://youtu.be/zuqOMBNFPuE">Video</a></p>
         <br />
-        <a href="https://www.youtube.com/watch?v=dUDTRJXvqfY">
         <img src="images/flyght1screenshot.png" width="100%"/>
         </a>
        <p>Flyght allows the user to visualize their past flights on an interactive map.</p>
