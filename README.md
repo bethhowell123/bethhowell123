@@ -29,7 +29,7 @@
   <td width="33%" valign="top">
       <h3>Flyght v.1</h3>
         <br />
-        <p><a href="https://github.com/bethhowell123/FlyghtOne">Repo</a> | <a href="https://youtu.be/zuqOMBNFPuE">Video</a></p>
+        <p><a href="https://github.com/bethhowell123/FlyghtOne">Repo</a>
         <br />
         <img src="images/flyght1screenshot.png" width="100%"/>
         </a>
@@ -38,7 +38,7 @@
   <td width="33%" valign="top">
       <h3>Flyght v.2</h3>
         <br />
-        <p><a href="https://github.com/bethhowell123/FlyghtTwo">Repo</a> | <a href="https://youtu.be/QAnEd0gfSFg">Video</a></p>
+        <p><a href="https://github.com/bethhowell123/FlyghtTwo">Repo</a>
         <br />
           <img src="images/flyght2screenshot.png" width="100%"/>
         <p>A work in progress! Originally a hackathon-style project to re-work Flyght v.1 into a more dynamic site with better UI/UX.</p>
